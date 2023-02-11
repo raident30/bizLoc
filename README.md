@@ -3,7 +3,7 @@
 `Run composer install`
 
 ### Make your own env file
-#### copy the .env.example file and save it as /env
+#### copy the .env.example file and save it as .env
 
 ### Migrate to the database
 
