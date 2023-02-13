@@ -1,6 +1,6 @@
 ### Install laravel dependencies
 
-`Run composer install`
+`composer install`
 
 ### Make your own env file
 #### copy the .env.example file and save it as .env
