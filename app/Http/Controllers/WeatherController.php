@@ -4,7 +4,6 @@ namespace App\Http\Controllers;
 
 use App\OpenWeather\Weather;
 use Illuminate\Http\Request;
-use Illuminate\Support\Facades\Http;
 
 
 class WeatherController extends Controller
